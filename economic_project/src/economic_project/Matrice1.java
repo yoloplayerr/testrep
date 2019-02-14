@@ -7,7 +7,7 @@ public class Matrice1 {
 	double[] z=new double[3];
 	
 	public static void main(String[] args) {
-		double[][] x=new double[][]{{2,4,5,6,8},{4,7,3,2,1},{2,40,8,90,1},{4,5,60,7,80}};
+		double[][] x=new double[][]{{2,4,5,6,8},{4,7,3,2,1},{2,40,8,90,1},{4,5,60,7,80}};// some comment
 		double[] y=new double[] { 20 , 40, 570,760,800};
 	double[][]f=new double[3][5];
 		for (int i = 0; i < 5; i++) {
